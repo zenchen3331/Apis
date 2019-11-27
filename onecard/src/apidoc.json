@@ -1,0 +1,38 @@
+{
+  "name": "阿里东升智慧园区项目",
+  "version": "1.0.0",
+  "description": "阿里东升智慧园区服务端与客户端接口规范",
+  "title": "阿里东升智慧园区接口规范",
+  "url" : "http://ip:port/apkp/",
+  "header": {
+    "title": "平台概述",
+    "filename": "header.md"
+  },
+  "footer": {
+    "title": "附录",
+    "filename": "footer.md"
+  },
+   "order": [
+   "accountInfo",
+   "owenedCardsList",
+   "enableSecondaryCard",
+   "realNameInfo",
+   "setTransPwd",
+   "reportTheLoseCard",
+   "returnCard",
+   "SMSCode",
+   "verifySMSCode",
+   "cardTypeList",
+   "verifyRealName",
+   "checkRealNameInfo",
+   "applyCard",
+   "cardInfo",
+   "secondCardCreditsLimit",
+   "orderInfo",
+   "payOrder",
+   "confirmPayOrder",
+   "applyOrder",
+   "applyWithdrawal",
+   "accountTransRecord"
+  ]
+}
